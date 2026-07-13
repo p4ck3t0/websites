@@ -2,6 +2,7 @@ baseURL = "https://benjaminkoltermann.me"
 languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 enableEmoji = true
+title = "Benjamin Koltermann"
 
 # Plugins
 [params.plugins]
@@ -65,6 +66,8 @@ enableEmoji = true
 
 
 [params]
+
+  description = "Benjamin Koltermann — cloud and Kubernetes engineer, CTF player, and security enthusiast."
 
   # sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
   sections = ["showcase", "about", "education", "testimonial", "experience", "client-and-work", "contact"]
